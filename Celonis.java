@@ -1,5 +1,5 @@
 class Celonis {
-	public void method1() {
+	public void firstMethod() {
 
 	}
 }
